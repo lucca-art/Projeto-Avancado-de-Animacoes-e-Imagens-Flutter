@@ -1,4 +1,3 @@
-// pages/dashboard_page.dart
 import 'package:flutter/material.dart';
 import '../widgets/animated_card.dart';
 import '../components/pulse_counter.dart';

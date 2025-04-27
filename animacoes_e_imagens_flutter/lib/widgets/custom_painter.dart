@@ -1,9 +1,8 @@
-// widgets/custom_painter.dart
 import 'dart:math';
 import 'package:flutter/material.dart';
 
 class CircularMeter extends StatefulWidget {
-  final double value; // Deve estar entre 0.0 e 1.0
+  final double value; 
 
   const CircularMeter({Key? key, required this.value}) : super(key: key);
 

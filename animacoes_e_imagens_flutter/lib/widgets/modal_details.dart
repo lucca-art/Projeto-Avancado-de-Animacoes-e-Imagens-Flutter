@@ -1,5 +1,3 @@
-// widgets/modal_details.dart
-
 import 'package:flutter/material.dart';
 
 class ModalDetails extends StatelessWidget {
