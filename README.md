@@ -9,7 +9,7 @@ Tema: **Viagens**
 
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/seu-usuario/flutter-animated-dashboard.git
+    git clone https://github.com/lucca-art/Projeto-Avancado-de-Animacoes-e-Imagens-Flutter.git
     cd flutter-animated-dashboard
     ```
 
