@@ -1,4 +1,4 @@
-# Flutter Animated Dashboard ✨
+# Flutter Animated Dashboard
 
 Dashboard animado com Flutter, utilizando animações customizadas, Lottie, Hero Animations e Modal Bottom Sheets.  
 Tema: **Viagens**
